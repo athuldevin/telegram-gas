@@ -1,0 +1,26 @@
+{
+  "name": "telegram-gas",
+  "version": "1.0.0",
+  "description": "Telegram bot client for Google app script",
+  "main": "index.js",
+  "scripts": {
+    "push:watch": "clasp push --watch",
+    "push": "clasp push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athuldevin/telegram-gas.git"
+  },
+  "author": "Devin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athuldevin/telegram-gas/issues"
+  },
+  "homepage": "https://github.com/athuldevin/telegram-gas#readme",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.30"
+  },
+  "devDependencies": {
+    "typegram": "^3.2.3"
+  }
+}
