@@ -1,0 +1,1399 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "b3584bc5798ed422ce2516df360ffa9cf2d80b5eae852867db9ba3743145f895",
+        "signature": "b3584bc5798ed422ce2516df360ffa9cf2d80b5eae852867db9ba3743145f895",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "signature": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2019.d.ts": {
+        "version": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
+        "signature": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "feeeb1dd8a80fb76be42b0426e8f3ffa9bdef3c2f3c12c147e7660b1c5ba8b3b",
+        "signature": "feeeb1dd8a80fb76be42b0426e8f3ffa9bdef3c2f3c12c147e7660b1c5ba8b3b",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "signature": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "signature": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "signature": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "signature": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "810627a82ac06fb5166da5ada4159c4ec11978dfbb0805fe804c86406dab8357",
+        "signature": "810627a82ac06fb5166da5ada4159c4ec11978dfbb0805fe804c86406dab8357",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "62d80405c46c3f4c527ee657ae9d43fda65a0bf582292429aea1e69144a522a6",
+        "signature": "62d80405c46c3f4c527ee657ae9d43fda65a0bf582292429aea1e69144a522a6",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "signature": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "signature": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+        "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "signature": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "signature": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "signature": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "signature": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "signature": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2019.array.d.ts": {
+        "version": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
+        "signature": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2019.object.d.ts": {
+        "version": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
+        "signature": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2019.string.d.ts": {
+        "version": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
+        "signature": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+        "version": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
+        "signature": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2019.full.d.ts": {
+        "version": "1f03b495671c3a1bd24510f38b8947f0991dfd6bf0278c68eca14af15b306e1f",
+        "signature": "1f03b495671c3a1bd24510f38b8947f0991dfd6bf0278c68eca14af15b306e1f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typegram/api.d.ts": {
+        "version": "12e5af23059d8c09ebd7ca16606e190b41ab106bc686405fad67a7a7b9803033",
+        "signature": "12e5af23059d8c09ebd7ca16606e190b41ab106bc686405fad67a7a7b9803033",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typegram/inline.d.ts": {
+        "version": "de4e3ae21e5a6751a93c5143c2675b24985f31140cedd3396ead7aa70f54bee3",
+        "signature": "de4e3ae21e5a6751a93c5143c2675b24985f31140cedd3396ead7aa70f54bee3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typegram/passport.d.ts": {
+        "version": "4b86002c13bff1738fab5d474ebada9805573d7517c45c8a0785e27fb7fc3940",
+        "signature": "4b86002c13bff1738fab5d474ebada9805573d7517c45c8a0785e27fb7fc3940",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typegram/payment.d.ts": {
+        "version": "4fd23dbf333c96607e4bf04ebfff62a68392dbe5880393c98b3fbc3be0dd75f9",
+        "signature": "4fd23dbf333c96607e4bf04ebfff62a68392dbe5880393c98b3fbc3be0dd75f9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typegram/message.d.ts": {
+        "version": "416a1ebc1880329b2a7d6fa67643094e675c4ac9f3dcb4291aa6f7f5bada5f3a",
+        "signature": "416a1ebc1880329b2a7d6fa67643094e675c4ac9f3dcb4291aa6f7f5bada5f3a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typegram/manage.d.ts": {
+        "version": "70d84096dd3bc3099d63caf0587ddcd71274189eb220f3282c2cbe3ff0818d1e",
+        "signature": "70d84096dd3bc3099d63caf0587ddcd71274189eb220f3282c2cbe3ff0818d1e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typegram/callback.d.ts": {
+        "version": "001c8c4f798721b22d1c48aa8611156d9dc75944cd18e2f7b585c7f83e5d2ca4",
+        "signature": "001c8c4f798721b22d1c48aa8611156d9dc75944cd18e2f7b585c7f83e5d2ca4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typegram/update.d.ts": {
+        "version": "ed9d2b3c875eb65b097ad049edd7ac3cb7969fc4090e873a6ec02a56b83990c7",
+        "signature": "ed9d2b3c875eb65b097ad049edd7ac3cb7969fc4090e873a6ec02a56b83990c7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typegram/proxied.d.ts": {
+        "version": "d56e7bdd5acb1d154ce817c433d52d5987daef112a2903dbd25e57fa31c7f276",
+        "signature": "d56e7bdd5acb1d154ce817c433d52d5987daef112a2903dbd25e57fa31c7f276",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typegram/default.d.ts": {
+        "version": "7cdb1988703dee8ea5bbae3c92d48d808ff44927adf29ef0afc10ba289360ac2",
+        "signature": "7cdb1988703dee8ea5bbae3c92d48d808ff44927adf29ef0afc10ba289360ac2",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typegram/index.d.ts": {
+        "version": "e28128c9309f629624581d94f8da410a1b6710fd7233f2853f042cb00a2848ab",
+        "signature": "e28128c9309f629624581d94f8da410a1b6710fd7233f2853f042cb00a2848ab",
+        "affectsGlobalScope": false
+      },
+      "../src/core/types/typegram.ts": {
+        "version": "2852a7f61323df8ddcf99a3620d7877ddead413ceee67125bfee25227811e786",
+        "signature": "ff40fcf262a82290121e3187b2f5590f3087750c50d59bd7e55fcfa994c2716c",
+        "affectsGlobalScope": false
+      },
+      "../src/button.ts": {
+        "version": "d19928d775ed44749da4815b96e79114478c350fc6ce1b9e5a52ff1f26e75f93",
+        "signature": "2422e56b7affe851a99fd73eb3607734e7abc3e5d1f01c4b20e08493c77da1ea",
+        "affectsGlobalScope": false
+      },
+      "../src/deunionize.ts": {
+        "version": "4680b7822e3bafb4a1101787a5fe1f0562dd4964b2357b4b50cf42a3e10e40ab",
+        "signature": "437dc5dc4d0ee9bf714d7d34adc4a943ae629d5ddaeadd15fe129e2c540f0520",
+        "affectsGlobalScope": false
+      },
+      "../src/telegram-types.ts": {
+        "version": "f91382d037f9f7401a04763320ac093097f3c3d5131ef8a3f60120ed8c9b7d19",
+        "signature": "ad4e838196375d9dc5a877b0d2ad7e02166df2529dcfe56a8d2c6a3305f8c7d3",
+        "affectsGlobalScope": false
+      },
+      "../src/core/network/error.ts": {
+        "version": "68dda4c8eb9faf3788c18a379068cf48cde7c098364c988386d610133b07ff19",
+        "signature": "37a08ae768109aad9c7580bdd9aafa771e2102002fc19065fca4d2f10679ff59",
+        "affectsGlobalScope": false
+      },
+      "../src/core/helpers/check.ts": {
+        "version": "526b42bdf4377286ab247a465b509703faacbdffe8fe5b45b47d496f17c42b9b",
+        "signature": "7f26ebaaff482c5c8b1790f4462737214c63e002ac61f4838f18887e12f6b076",
+        "affectsGlobalScope": false
+      },
+      "../src/core/network/client.ts": {
+        "version": "70db3fcaa468f4a2e6e806e08fe149dc69f4791f4e398b79c8f36a09f276e063",
+        "signature": "283aa0c890c238c4146402091d5459308a83df11063a065c6f2c0cd17992909a",
+        "affectsGlobalScope": false
+      },
+      "../src/telegram.ts": {
+        "version": "d7d309d9c61c6dbf3f0cfccdb79b4a43578bf3a84f1b929a098788a01f19b73b",
+        "signature": "e43d30c44d81fb1e5c99baccfe0494e11f12d09bf19436141b39866073bc7644",
+        "affectsGlobalScope": false
+      },
+      "../src/context.ts": {
+        "version": "c58b0af7215dd85936e2a13c7b9f863e91eeacafe5049cd165d1a7c1c669d39c",
+        "signature": "54cf8ad22362295d36f764bb0451ad6460bca41ee63b1245b03bb1c1f9d9560c",
+        "affectsGlobalScope": false
+      },
+      "../src/middleware.ts": {
+        "version": "6fc6eb05d26239a74c11e2dc44d5e49ffb970a5028a8f8ce8d274d4cca486b07",
+        "signature": "1ef1e74060fc4dbd672013487d298ca5e1a36dab334b5ccb0d5918030932029b",
+        "affectsGlobalScope": false
+      },
+      "../src/composer.ts": {
+        "version": "a2f5586513f46edcff1352b8f8d549997974e877fbb38be3225d0d1184828739",
+        "signature": "f7acaa4702bc0c068f7fbba475c0faaeddc5f42892dde2b0c07bfc2a4866f013",
+        "affectsGlobalScope": false
+      },
+      "../src/core/helpers/compact.ts": {
+        "version": "7fcf8b24a2eccf64fed0023e3ab0a1c1542b0859f32c417ff523cad9fcbb2fb7",
+        "signature": "68cfb19064568b518077f619a1f00e0cf08de04792bdd426ce55a83d1c51838d",
+        "affectsGlobalScope": false
+      },
+      "../src/core/network/webhook.ts": {
+        "version": "f3afea7b3b6d7a8ebcb3924cf5ad12981a192391b050b7a221c9308063de2c2a",
+        "signature": "28611fba942e1e78ebfc3b436c6d62964b31799afaabba83aca97962b5e70d2d",
+        "affectsGlobalScope": false
+      },
+      "../src/telegraf.ts": {
+        "version": "1da7c6450a5c8a117eac8b3a6ba213f08f23869478bc6bf15a2015c733624934",
+        "signature": "2873e37da26af9bfd40e30fbdc14b8233dab487911ddc0b1b11eeee514e902d6",
+        "affectsGlobalScope": false
+      },
+      "../src/markup.ts": {
+        "version": "96e32e873a2c69df9eb690a0d0106e706a4376143c635fcea5dab5e67f4200a1",
+        "signature": "4bd357b146570d02d014a4ca808d6afbe038b68fc26b0ea8c08575a7614447bd",
+        "affectsGlobalScope": false
+      },
+      "../src/code.ts": {
+        "version": "9046b722d7091b32cbb936a10a33a91135577af4aa17d5fa1e46b26028cd2150",
+        "signature": "216ffbfcc4b1e83513076068619bad7bfc09556b5fcd1b20dc93f677548c29e5",
+        "affectsGlobalScope": false
+      },
+      "../src/index.ts": {
+        "version": "c525de8847097e418d7a861009a243e37572a2de2cdd22fa46d949acb096a362",
+        "signature": "8030f6d16f43be65d6a477e4872dfd660f3cfe421e439bb8783697936caabbbb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts": {
+        "version": "9e6668665a2759874a3a404a80f6a70566ff0de69c82426b6ce2f6177ede884c",
+        "signature": "9e6668665a2759874a3a404a80f6a70566ff0de69c82426b6ce2f6177ede884c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts": {
+        "version": "eec16a8e04fe8f6e8e4705ad3062a53febfd5039449b823d968a355f418e3358",
+        "signature": "eec16a8e04fe8f6e8e4705ad3062a53febfd5039449b823d968a355f418e3358",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.cache.d.ts": {
+        "version": "c3a5b74cdf0d4ed887a0d67e44f0ce5a0bfbd845974c71875bc1a69c6725486d",
+        "signature": "c3a5b74cdf0d4ed887a0d67e44f0ce5a0bfbd845974c71875bc1a69c6725486d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.calendar.d.ts": {
+        "version": "b066b29c664f9061d10ca9c9b66981140c6ffd0101c40852a6347c853ac80ad6",
+        "signature": "b066b29c664f9061d10ca9c9b66981140c6ffd0101c40852a6347c853ac80ad6",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.contacts.d.ts": {
+        "version": "4f7bae6d38619487a97d89c2d79fc5335a2d5b28d2dfe212d7d63ff1119a425c",
+        "signature": "4f7bae6d38619487a97d89c2d79fc5335a2d5b28d2dfe212d7d63ff1119a425c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.data-studio.d.ts": {
+        "version": "6be974221a9993567d5f1a7bd5ed9a243c7a2ef903bda6aaf1b404c7d1f4c347",
+        "signature": "6be974221a9993567d5f1a7bd5ed9a243c7a2ef903bda6aaf1b404c7d1f4c347",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.document.d.ts": {
+        "version": "4a36efbfd2fc08026516d69ece8a2e96f020c58034576aa069c44c69cd8ee8a0",
+        "signature": "4a36efbfd2fc08026516d69ece8a2e96f020c58034576aa069c44c69cd8ee8a0",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.drive.d.ts": {
+        "version": "139a9495d1788c43e75bebebda40673639e4c8617fd56ec24acf078fb7b63c08",
+        "signature": "139a9495d1788c43e75bebebda40673639e4c8617fd56ec24acf078fb7b63c08",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.forms.d.ts": {
+        "version": "1119506f8b2aaaabf7a1763a5cddf6d4bb9bfec2d58c4e6260a312f84cd2d68c",
+        "signature": "1119506f8b2aaaabf7a1763a5cddf6d4bb9bfec2d58c4e6260a312f84cd2d68c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.gmail.d.ts": {
+        "version": "d51a145295f0fd1050dafdc47fb78c905025ab815f77e8a733e515ad7ab24689",
+        "signature": "d51a145295f0fd1050dafdc47fb78c905025ab815f77e8a733e515ad7ab24689",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.groups.d.ts": {
+        "version": "813170baa5283590355cbd36bcc9f87c602bbd460562feac6b446ba5848e26a2",
+        "signature": "813170baa5283590355cbd36bcc9f87c602bbd460562feac6b446ba5848e26a2",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.language.d.ts": {
+        "version": "50901b6623d36ed2f91151a46e2f627b061a226aedcc8375679f438cf7fe91c3",
+        "signature": "50901b6623d36ed2f91151a46e2f627b061a226aedcc8375679f438cf7fe91c3",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.maps.d.ts": {
+        "version": "61dce686d12a077532a0a540f52ce79a6c36ac9783ce1a48c4df96e88f5bc629",
+        "signature": "61dce686d12a077532a0a540f52ce79a6c36ac9783ce1a48c4df96e88f5bc629",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.sites.d.ts": {
+        "version": "532416bd67a778514c48c6d26f715d68b9ff82b011e96842019523f74ded7214",
+        "signature": "532416bd67a778514c48c6d26f715d68b9ff82b011e96842019523f74ded7214",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.charts.d.ts": {
+        "version": "81db30f1972c0238ff6faa973da7eb8035e61c59076cb1852ac83e1c7d759f0a",
+        "signature": "81db30f1972c0238ff6faa973da7eb8035e61c59076cb1852ac83e1c7d759f0a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.spreadsheet.d.ts": {
+        "version": "52b5dbcedd5e55335f6b6b31cd14a094080381b483f76aead43c81f7074f6617",
+        "signature": "52b5dbcedd5e55335f6b6b31cd14a094080381b483f76aead43c81f7074f6617",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.slides.d.ts": {
+        "version": "3bb67f95cfb96e56f5cdf9b2a42648563026d1fa8a6a4741fc2c4bdbc5ec877a",
+        "signature": "3bb67f95cfb96e56f5cdf9b2a42648563026d1fa8a6a4741fc2c4bdbc5ec877a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.conference-data.d.ts": {
+        "version": "8c141033619e5a9a075bb5963e9d303752ac8d5ae207ac0a3d39f983d2548d5b",
+        "signature": "8c141033619e5a9a075bb5963e9d303752ac8d5ae207ac0a3d39f983d2548d5b",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.card-service.d.ts": {
+        "version": "313009782fa654dc9c49cbf6e0d475e933f2c62541d9cd88e89329d1e93c69ec",
+        "signature": "313009782fa654dc9c49cbf6e0d475e933f2c62541d9cd88e89329d1e93c69ec",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.content.d.ts": {
+        "version": "be9a2ca83ff72fbd4b5fbd0d8fa4355b1d0f5f73c294eb5c8657f07e21702076",
+        "signature": "be9a2ca83ff72fbd4b5fbd0d8fa4355b1d0f5f73c294eb5c8657f07e21702076",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.html.d.ts": {
+        "version": "d870ec7e90b7c807f1ce03f456a6411dce3750639ecd16208b336730ce17001f",
+        "signature": "d870ec7e90b7c807f1ce03f456a6411dce3750639ecd16208b336730ce17001f",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.jdbc.d.ts": {
+        "version": "b379a30035a2b765666c384f3f7cc526c90fe64995de064f161d4d7a48e02114",
+        "signature": "b379a30035a2b765666c384f3f7cc526c90fe64995de064f161d4d7a48e02114",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.lock.d.ts": {
+        "version": "ec38dd32184dc7880001b595eafad0239cd6d299036ae9f36f7b91ab338ab812",
+        "signature": "ec38dd32184dc7880001b595eafad0239cd6d299036ae9f36f7b91ab338ab812",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.mail.d.ts": {
+        "version": "253726febd1371e69b12782ad152ffa871cdb139116181ee18c98a2112a368e6",
+        "signature": "253726febd1371e69b12782ad152ffa871cdb139116181ee18c98a2112a368e6",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.optimization.d.ts": {
+        "version": "f1f5e178304b4689606176e484553b298dd9eb2d788c4f51d3c4794034325ba4",
+        "signature": "f1f5e178304b4689606176e484553b298dd9eb2d788c4f51d3c4794034325ba4",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.properties.d.ts": {
+        "version": "eecefa30c9878c27f15a81e7ab96c8796d5d3e7e644fb98dd8a716c78fdd20fb",
+        "signature": "eecefa30c9878c27f15a81e7ab96c8796d5d3e7e644fb98dd8a716c78fdd20fb",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.script.d.ts": {
+        "version": "c006242de93234c8dfd4557a918e074cb475f331e31b1873ce1ccc1944a36c74",
+        "signature": "c006242de93234c8dfd4557a918e074cb475f331e31b1873ce1ccc1944a36c74",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.url-fetch.d.ts": {
+        "version": "49cd453d283d96842c8351f184a69a738577bd44abdc8d2b393a66ddb7b9c7db",
+        "signature": "49cd453d283d96842c8351f184a69a738577bd44abdc8d2b393a66ddb7b9c7db",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.utilities.d.ts": {
+        "version": "054c40cae585a0c0e5ff17b1bc3548a6c21395c90c078b809814d8bf988fbc70",
+        "signature": "054c40cae585a0c0e5ff17b1bc3548a6c21395c90c078b809814d8bf988fbc70",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script.xml-service.d.ts": {
+        "version": "c7fca68b9e85c8f57a4245f52425552e9aa8e7835eb47c141e54685c019a9cb2",
+        "signature": "c7fca68b9e85c8f57a4245f52425552e9aa8e7835eb47c141e54685c019a9cb2",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/google-apps-script-events.d.ts": {
+        "version": "bc463820a1c5bce467777c2c89074cdccffdd4488a204d629b6ae9e40f4c23fa",
+        "signature": "bc463820a1c5bce467777c2c89074cdccffdd4488a204d629b6ae9e40f4c23fa",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/adsense_v1_4.d.ts": {
+        "version": "ed8d579677b407bdef926e3b2e0553048a4555cebf8863af1cf9b227a96311ce",
+        "signature": "ed8d579677b407bdef926e3b2e0553048a4555cebf8863af1cf9b227a96311ce",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/analytics_v3.d.ts": {
+        "version": "75b3c6156abf403df1339dc1bc64f1e22ab0acd28af2f406d5fb8e56fa1b5d23",
+        "signature": "75b3c6156abf403df1339dc1bc64f1e22ab0acd28af2f406d5fb8e56fa1b5d23",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/analyticsreporting_v4.d.ts": {
+        "version": "31e6a97ae866649aa22aee5a373d95968dcc526c59cff6ef596a374eaae03167",
+        "signature": "31e6a97ae866649aa22aee5a373d95968dcc526c59cff6ef596a374eaae03167",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/appsactivity_v1.d.ts": {
+        "version": "00dff3bce8612acf63a057a5aed9d0e369a1cb4b345eb92279a8a72bbedbd450",
+        "signature": "00dff3bce8612acf63a057a5aed9d0e369a1cb4b345eb92279a8a72bbedbd450",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/bigquery_v2.d.ts": {
+        "version": "f558f88f70f59cf2d7b09ceaa29b86bbca43aed523526f33957f9f72eaa88b26",
+        "signature": "f558f88f70f59cf2d7b09ceaa29b86bbca43aed523526f33957f9f72eaa88b26",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/calendar_v3.d.ts": {
+        "version": "2ce3e2606fbcb304a06242c4ddb9b0ebd5ea0dedb81a258abf1b15b307edd215",
+        "signature": "2ce3e2606fbcb304a06242c4ddb9b0ebd5ea0dedb81a258abf1b15b307edd215",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/classroom_v1.d.ts": {
+        "version": "83691d258b9d2f7ce4463e9ba40d47906386c1c58b30da0a21c897e65446aea2",
+        "signature": "83691d258b9d2f7ce4463e9ba40d47906386c1c58b30da0a21c897e65446aea2",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/content_v2.d.ts": {
+        "version": "8e89dda4cff0fbb64066cd564a9b0683173523371aa2da14597c093ebf20d961",
+        "signature": "8e89dda4cff0fbb64066cd564a9b0683173523371aa2da14597c093ebf20d961",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/dfareporting_v3_3.d.ts": {
+        "version": "4afa28cd35e52f59a081cc34526af540e93ed897c88c3a3cb212bd64699d6619",
+        "signature": "4afa28cd35e52f59a081cc34526af540e93ed897c88c3a3cb212bd64699d6619",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/directory_v1.d.ts": {
+        "version": "deea0e0d76b29c8e29cc2f017e9c44b7732c68a8670f5ad431dd55abd77f5f6b",
+        "signature": "deea0e0d76b29c8e29cc2f017e9c44b7732c68a8670f5ad431dd55abd77f5f6b",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/docs_v1.d.ts": {
+        "version": "c38b152f8501a169af823a54debb674a0b707d2f07cad749c2de8e2b86cdc350",
+        "signature": "c38b152f8501a169af823a54debb674a0b707d2f07cad749c2de8e2b86cdc350",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/drive_v2.d.ts": {
+        "version": "7e7eac16bde187ea24cff639bddbdbe61204f9fd7c60a6fc0602e1558ca52e0e",
+        "signature": "7e7eac16bde187ea24cff639bddbdbe61204f9fd7c60a6fc0602e1558ca52e0e",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/driveactivity_v2.d.ts": {
+        "version": "5889e3f43b93f557e671e3b5b8fb2798c575210e8d241371ccf0c2493f7cd5ed",
+        "signature": "5889e3f43b93f557e671e3b5b8fb2798c575210e8d241371ccf0c2493f7cd5ed",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/gmail_v1.d.ts": {
+        "version": "10094c89d6ed889d2fa9783a634cdbf4dad846856235a8407cd9162a9eb42f69",
+        "signature": "10094c89d6ed889d2fa9783a634cdbf4dad846856235a8407cd9162a9eb42f69",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/groupsmigration_v1.d.ts": {
+        "version": "f6f366aca97a6a352b7eeb136b4c107ab61bda5d85a3735c1ff9565040872c42",
+        "signature": "f6f366aca97a6a352b7eeb136b4c107ab61bda5d85a3735c1ff9565040872c42",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/groupssettings_v1.d.ts": {
+        "version": "1d470e92a7434c8327fa17dc845fa1315d944352b4c54b17c874367801bdfd87",
+        "signature": "1d470e92a7434c8327fa17dc845fa1315d944352b4c54b17c874367801bdfd87",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/licensing_v1.d.ts": {
+        "version": "7927b98048cd49cc0f692453d03ca0dbde676366c6a19f7731ed216b0abde356",
+        "signature": "7927b98048cd49cc0f692453d03ca0dbde676366c6a19f7731ed216b0abde356",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/mirror_v1.d.ts": {
+        "version": "0ae0b5c5fd47e2565f340e6897908cebff0ba8107f5ccbd44c8651fbf0a69c70",
+        "signature": "0ae0b5c5fd47e2565f340e6897908cebff0ba8107f5ccbd44c8651fbf0a69c70",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/peopleapi_v1.d.ts": {
+        "version": "b2a248e90e65f9577f9f5debeac857bf58b35945ae69e72d84b5889faaf6658a",
+        "signature": "b2a248e90e65f9577f9f5debeac857bf58b35945ae69e72d84b5889faaf6658a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/reports_v1.d.ts": {
+        "version": "a19dfc815cf23ab16b2319f43df7f0981ab0fc4fb1ff7b43e19464ee6f1013c8",
+        "signature": "a19dfc815cf23ab16b2319f43df7f0981ab0fc4fb1ff7b43e19464ee6f1013c8",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/reseller_v1.d.ts": {
+        "version": "593724dc09a6bacf23e6b4d7781dd447b56d066f98c1c010de17bbb93850f232",
+        "signature": "593724dc09a6bacf23e6b4d7781dd447b56d066f98c1c010de17bbb93850f232",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/sheets_v4.d.ts": {
+        "version": "991302b6faf6b92a203d54443ea51343d76ed7519c2d4656622fd702f6d4ede9",
+        "signature": "991302b6faf6b92a203d54443ea51343d76ed7519c2d4656622fd702f6d4ede9",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/slides_v1.d.ts": {
+        "version": "b78ffd981fc570f91681f52bf774b97f8bc8616ba9a955e61c8079bb4eec514f",
+        "signature": "b78ffd981fc570f91681f52bf774b97f8bc8616ba9a955e61c8079bb4eec514f",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/tagmanager_v2.d.ts": {
+        "version": "efe2fd0a03abc37ddc839bc0e017cdb97d2a164ff461e0f4176af662b7d63679",
+        "signature": "efe2fd0a03abc37ddc839bc0e017cdb97d2a164ff461e0f4176af662b7d63679",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/tasks_v1.d.ts": {
+        "version": "5f3248531ae5860a352dd577b4345342b8043e7bc937f9e5cb587356f4a977de",
+        "signature": "5f3248531ae5860a352dd577b4345342b8043e7bc937f9e5cb587356f4a977de",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/youtube_v3.d.ts": {
+        "version": "fe111435bc6012d86f0dee336c2e3887d61e3510c006f53902a506e7c9085d9c",
+        "signature": "fe111435bc6012d86f0dee336c2e3887d61e3510c006f53902a506e7c9085d9c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/youtubeanalytics_v2.d.ts": {
+        "version": "422ff2dbd6380ba11f2349e76f1d83e518ee179d3945422ddd0072a8b139ec6d",
+        "signature": "422ff2dbd6380ba11f2349e76f1d83e518ee179d3945422ddd0072a8b139ec6d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/apis/youtubepartner_v1.d.ts": {
+        "version": "15a463898dcd29ab08d19daee3258dede200101aa3d6bafe3e0605abc01da0d8",
+        "signature": "15a463898dcd29ab08d19daee3258dede200101aa3d6bafe3e0605abc01da0d8",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/google-apps-script/index.d.ts": {
+        "version": "cf276eba3445224c38cbd9da90be1ff8ea4b0a2712195191417b738047a835bc",
+        "signature": "cf276eba3445224c38cbd9da90be1ff8ea4b0a2712195191417b738047a835bc",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "module": 1,
+      "composite": true,
+      "declaration": true,
+      "declarationMap": true,
+      "declarationDir": "./",
+      "outDir": "../lib",
+      "rootDir": "../src",
+      "target": 6,
+      "strict": true,
+      "noUncheckedIndexedAccess": true,
+      "tsBuildInfoFile": "./tsconfig.tsbuildinfo",
+      "noErrorTruncation": true,
+      "forceConsistentCasingInFileNames": true,
+      "emitDeclarationOnly": true,
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../node_modules/@types/google-apps-script/google-apps-script-events.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.script.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.slides.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.spreadsheet.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.cache.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.calendar.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.card-service.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.conference-data.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.gmail.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.charts.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.conference-data.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.contacts.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.content.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.data-studio.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.document.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.drive.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.forms.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.gmail.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.groups.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.html.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.jdbc.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.language.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.lock.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.mail.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.maps.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.optimization.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.properties.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.script.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.document.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.forms.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.spreadsheet.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.sites.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.slides.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.spreadsheet.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.spreadsheet.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.charts.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.drive.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.url-fetch.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.utilities.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.xml-service.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/index.d.ts": [
+        "../node_modules/@types/google-apps-script/apis/adsense_v1_4.d.ts",
+        "../node_modules/@types/google-apps-script/apis/analytics_v3.d.ts",
+        "../node_modules/@types/google-apps-script/apis/analyticsreporting_v4.d.ts",
+        "../node_modules/@types/google-apps-script/apis/appsactivity_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/bigquery_v2.d.ts",
+        "../node_modules/@types/google-apps-script/apis/calendar_v3.d.ts",
+        "../node_modules/@types/google-apps-script/apis/classroom_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/content_v2.d.ts",
+        "../node_modules/@types/google-apps-script/apis/dfareporting_v3_3.d.ts",
+        "../node_modules/@types/google-apps-script/apis/directory_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/docs_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/drive_v2.d.ts",
+        "../node_modules/@types/google-apps-script/apis/driveactivity_v2.d.ts",
+        "../node_modules/@types/google-apps-script/apis/gmail_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/groupsmigration_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/groupssettings_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/licensing_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/mirror_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/peopleapi_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/reports_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/reseller_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/sheets_v4.d.ts",
+        "../node_modules/@types/google-apps-script/apis/slides_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/tagmanager_v2.d.ts",
+        "../node_modules/@types/google-apps-script/apis/tasks_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/youtube_v3.d.ts",
+        "../node_modules/@types/google-apps-script/apis/youtubeanalytics_v2.d.ts",
+        "../node_modules/@types/google-apps-script/apis/youtubepartner_v1.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script-events.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.cache.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.calendar.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.card-service.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.charts.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.contacts.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.content.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.data-studio.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.document.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.drive.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.forms.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.gmail.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.groups.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.html.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.jdbc.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.language.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.lock.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.mail.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.maps.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.optimization.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.properties.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.script.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.sites.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.slides.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.spreadsheet.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.url-fetch.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.utilities.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.xml-service.d.ts"
+      ],
+      "../node_modules/typegram/callback.d.ts": [
+        "../node_modules/typegram/manage.d.ts",
+        "../node_modules/typegram/message.d.ts"
+      ],
+      "../node_modules/typegram/default.d.ts": [
+        "../node_modules/typegram/proxied.d.ts"
+      ],
+      "../node_modules/typegram/index.d.ts": [
+        "../node_modules/typegram/api.d.ts",
+        "../node_modules/typegram/callback.d.ts",
+        "../node_modules/typegram/default.d.ts",
+        "../node_modules/typegram/inline.d.ts",
+        "../node_modules/typegram/manage.d.ts",
+        "../node_modules/typegram/message.d.ts",
+        "../node_modules/typegram/passport.d.ts",
+        "../node_modules/typegram/payment.d.ts",
+        "../node_modules/typegram/proxied.d.ts",
+        "../node_modules/typegram/update.d.ts"
+      ],
+      "../node_modules/typegram/inline.d.ts": [
+        "../node_modules/typegram/manage.d.ts",
+        "../node_modules/typegram/message.d.ts"
+      ],
+      "../node_modules/typegram/manage.d.ts": [
+        "../node_modules/typegram/message.d.ts"
+      ],
+      "../node_modules/typegram/message.d.ts": [
+        "../node_modules/typegram/inline.d.ts",
+        "../node_modules/typegram/manage.d.ts",
+        "../node_modules/typegram/passport.d.ts",
+        "../node_modules/typegram/payment.d.ts"
+      ],
+      "../node_modules/typegram/payment.d.ts": [
+        "../node_modules/typegram/manage.d.ts"
+      ],
+      "../node_modules/typegram/proxied.d.ts": [
+        "../node_modules/typegram/api.d.ts",
+        "../node_modules/typegram/callback.d.ts",
+        "../node_modules/typegram/inline.d.ts",
+        "../node_modules/typegram/manage.d.ts",
+        "../node_modules/typegram/message.d.ts",
+        "../node_modules/typegram/passport.d.ts",
+        "../node_modules/typegram/payment.d.ts",
+        "../node_modules/typegram/update.d.ts"
+      ],
+      "../node_modules/typegram/update.d.ts": [
+        "../node_modules/typegram/callback.d.ts",
+        "../node_modules/typegram/inline.d.ts",
+        "../node_modules/typegram/manage.d.ts",
+        "../node_modules/typegram/message.d.ts",
+        "../node_modules/typegram/payment.d.ts"
+      ],
+      "../src/button.ts": [
+        "../src/core/types/typegram.ts"
+      ],
+      "../src/code.ts": [
+        "../src/composer.ts",
+        "../src/context.ts",
+        "../src/core/network/error.ts",
+        "../src/deunionize.ts",
+        "../src/markup.ts",
+        "../src/middleware.ts",
+        "../src/telegraf.ts",
+        "../src/telegram-types.ts",
+        "../src/telegram.ts"
+      ],
+      "../src/composer.ts": [
+        "../src/context.ts",
+        "../src/core/types/typegram.ts",
+        "../src/middleware.ts",
+        "../src/telegram-types.ts"
+      ],
+      "../src/context.ts": [
+        "../src/core/network/client.ts",
+        "../src/core/types/typegram.ts",
+        "../src/deunionize.ts",
+        "../src/telegram-types.ts",
+        "../src/telegram.ts"
+      ],
+      "../src/core/network/client.ts": [
+        "../src/core/helpers/check.ts",
+        "../src/core/network/error.ts",
+        "../src/core/types/typegram.ts"
+      ],
+      "../src/core/network/error.ts": [
+        "../src/core/types/typegram.ts"
+      ],
+      "../src/core/network/webhook.ts": [
+        "../src/core/types/typegram.ts"
+      ],
+      "../src/core/types/typegram.ts": [
+        "../node_modules/typegram/callback.d.ts",
+        "../node_modules/typegram/index.d.ts",
+        "../node_modules/typegram/inline.d.ts",
+        "../node_modules/typegram/manage.d.ts",
+        "../node_modules/typegram/message.d.ts",
+        "../node_modules/typegram/passport.d.ts",
+        "../node_modules/typegram/payment.d.ts",
+        "../node_modules/typegram/update.d.ts"
+      ],
+      "../src/index.ts": [
+        "../src/code.ts"
+      ],
+      "../src/markup.ts": [
+        "../src/button.ts",
+        "../src/core/helpers/check.ts",
+        "../src/core/types/typegram.ts"
+      ],
+      "../src/middleware.ts": [
+        "../src/context.ts"
+      ],
+      "../src/telegraf.ts": [
+        "../src/composer.ts",
+        "../src/context.ts",
+        "../src/core/helpers/compact.ts",
+        "../src/core/network/client.ts",
+        "../src/core/network/webhook.ts",
+        "../src/core/types/typegram.ts",
+        "../src/telegram-types.ts",
+        "../src/telegram.ts"
+      ],
+      "../src/telegram-types.ts": [
+        "../src/core/types/typegram.ts",
+        "../src/deunionize.ts"
+      ],
+      "../src/telegram.ts": [
+        "../src/core/network/client.ts",
+        "../src/core/types/typegram.ts",
+        "../src/telegram-types.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../node_modules/@types/google-apps-script/google-apps-script-events.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.script.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.slides.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.spreadsheet.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.cache.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.calendar.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.card-service.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.conference-data.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.gmail.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.charts.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.conference-data.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.contacts.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.content.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.data-studio.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.document.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.drive.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.forms.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.gmail.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.groups.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.html.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.jdbc.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.language.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.lock.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.mail.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.maps.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.optimization.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.properties.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.script.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.document.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.forms.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.spreadsheet.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.sites.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.slides.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.spreadsheet.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.spreadsheet.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.charts.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.drive.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.url-fetch.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.utilities.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.xml-service.d.ts": [
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts"
+      ],
+      "../node_modules/@types/google-apps-script/index.d.ts": [
+        "../node_modules/@types/google-apps-script/apis/adsense_v1_4.d.ts",
+        "../node_modules/@types/google-apps-script/apis/analytics_v3.d.ts",
+        "../node_modules/@types/google-apps-script/apis/analyticsreporting_v4.d.ts",
+        "../node_modules/@types/google-apps-script/apis/appsactivity_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/bigquery_v2.d.ts",
+        "../node_modules/@types/google-apps-script/apis/calendar_v3.d.ts",
+        "../node_modules/@types/google-apps-script/apis/classroom_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/content_v2.d.ts",
+        "../node_modules/@types/google-apps-script/apis/dfareporting_v3_3.d.ts",
+        "../node_modules/@types/google-apps-script/apis/directory_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/docs_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/drive_v2.d.ts",
+        "../node_modules/@types/google-apps-script/apis/driveactivity_v2.d.ts",
+        "../node_modules/@types/google-apps-script/apis/gmail_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/groupsmigration_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/groupssettings_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/licensing_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/mirror_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/peopleapi_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/reports_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/reseller_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/sheets_v4.d.ts",
+        "../node_modules/@types/google-apps-script/apis/slides_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/tagmanager_v2.d.ts",
+        "../node_modules/@types/google-apps-script/apis/tasks_v1.d.ts",
+        "../node_modules/@types/google-apps-script/apis/youtube_v3.d.ts",
+        "../node_modules/@types/google-apps-script/apis/youtubeanalytics_v2.d.ts",
+        "../node_modules/@types/google-apps-script/apis/youtubepartner_v1.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script-events.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.cache.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.calendar.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.card-service.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.charts.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.contacts.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.content.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.data-studio.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.document.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.drive.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.forms.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.gmail.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.groups.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.html.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.jdbc.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.language.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.lock.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.mail.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.maps.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.optimization.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.properties.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.script.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.sites.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.slides.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.spreadsheet.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.url-fetch.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.utilities.d.ts",
+        "../node_modules/@types/google-apps-script/google-apps-script.xml-service.d.ts"
+      ],
+      "../node_modules/typegram/callback.d.ts": [
+        "../node_modules/typegram/manage.d.ts",
+        "../node_modules/typegram/message.d.ts"
+      ],
+      "../node_modules/typegram/default.d.ts": [
+        "../node_modules/typegram/proxied.d.ts"
+      ],
+      "../node_modules/typegram/index.d.ts": [
+        "../node_modules/typegram/api.d.ts",
+        "../node_modules/typegram/callback.d.ts",
+        "../node_modules/typegram/default.d.ts",
+        "../node_modules/typegram/inline.d.ts",
+        "../node_modules/typegram/manage.d.ts",
+        "../node_modules/typegram/message.d.ts",
+        "../node_modules/typegram/passport.d.ts",
+        "../node_modules/typegram/payment.d.ts",
+        "../node_modules/typegram/proxied.d.ts",
+        "../node_modules/typegram/update.d.ts"
+      ],
+      "../node_modules/typegram/inline.d.ts": [
+        "../node_modules/typegram/manage.d.ts",
+        "../node_modules/typegram/message.d.ts"
+      ],
+      "../node_modules/typegram/manage.d.ts": [
+        "../node_modules/typegram/message.d.ts"
+      ],
+      "../node_modules/typegram/message.d.ts": [
+        "../node_modules/typegram/inline.d.ts",
+        "../node_modules/typegram/manage.d.ts",
+        "../node_modules/typegram/passport.d.ts",
+        "../node_modules/typegram/payment.d.ts"
+      ],
+      "../node_modules/typegram/payment.d.ts": [
+        "../node_modules/typegram/manage.d.ts"
+      ],
+      "../node_modules/typegram/proxied.d.ts": [
+        "../node_modules/typegram/api.d.ts",
+        "../node_modules/typegram/callback.d.ts",
+        "../node_modules/typegram/inline.d.ts",
+        "../node_modules/typegram/manage.d.ts",
+        "../node_modules/typegram/message.d.ts",
+        "../node_modules/typegram/passport.d.ts",
+        "../node_modules/typegram/payment.d.ts",
+        "../node_modules/typegram/update.d.ts"
+      ],
+      "../node_modules/typegram/update.d.ts": [
+        "../node_modules/typegram/callback.d.ts",
+        "../node_modules/typegram/inline.d.ts",
+        "../node_modules/typegram/manage.d.ts",
+        "../node_modules/typegram/message.d.ts",
+        "../node_modules/typegram/payment.d.ts"
+      ],
+      "../src/button.ts": [
+        "../src/core/types/typegram.ts"
+      ],
+      "../src/code.ts": [
+        "../src/composer.ts",
+        "../src/context.ts",
+        "../src/core/network/error.ts",
+        "../src/deunionize.ts",
+        "../src/markup.ts",
+        "../src/middleware.ts",
+        "../src/telegraf.ts",
+        "../src/telegram-types.ts",
+        "../src/telegram.ts"
+      ],
+      "../src/composer.ts": [
+        "../src/context.ts",
+        "../src/core/types/typegram.ts",
+        "../src/middleware.ts",
+        "../src/telegram-types.ts"
+      ],
+      "../src/context.ts": [
+        "../src/core/network/client.ts",
+        "../src/core/types/typegram.ts",
+        "../src/deunionize.ts",
+        "../src/telegram-types.ts",
+        "../src/telegram.ts"
+      ],
+      "../src/core/network/client.ts": [
+        "../src/core/types/typegram.ts"
+      ],
+      "../src/core/network/error.ts": [
+        "../src/core/types/typegram.ts"
+      ],
+      "../src/core/network/webhook.ts": [
+        "../src/core/types/typegram.ts"
+      ],
+      "../src/core/types/typegram.ts": [
+        "../node_modules/typegram/callback.d.ts",
+        "../node_modules/typegram/index.d.ts",
+        "../node_modules/typegram/inline.d.ts",
+        "../node_modules/typegram/manage.d.ts",
+        "../node_modules/typegram/message.d.ts",
+        "../node_modules/typegram/passport.d.ts",
+        "../node_modules/typegram/payment.d.ts",
+        "../node_modules/typegram/update.d.ts"
+      ],
+      "../src/index.ts": [
+        "../src/code.ts"
+      ],
+      "../src/markup.ts": [
+        "../src/button.ts",
+        "../src/core/types/typegram.ts"
+      ],
+      "../src/middleware.ts": [
+        "../src/context.ts"
+      ],
+      "../src/telegraf.ts": [
+        "../src/composer.ts",
+        "../src/context.ts",
+        "../src/core/network/client.ts",
+        "../src/core/types/typegram.ts",
+        "../src/telegram-types.ts",
+        "../src/telegram.ts"
+      ],
+      "../src/telegram-types.ts": [
+        "../src/core/types/typegram.ts",
+        "../src/deunionize.ts"
+      ],
+      "../src/telegram.ts": [
+        "../src/core/network/client.ts",
+        "../src/core/types/typegram.ts",
+        "../src/telegram-types.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2016.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2017.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2018.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2019.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2019.full.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2019.object.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "../node_modules/@types/google-apps-script/apis/adsense_v1_4.d.ts",
+      "../node_modules/@types/google-apps-script/apis/analytics_v3.d.ts",
+      "../node_modules/@types/google-apps-script/apis/analyticsreporting_v4.d.ts",
+      "../node_modules/@types/google-apps-script/apis/appsactivity_v1.d.ts",
+      "../node_modules/@types/google-apps-script/apis/bigquery_v2.d.ts",
+      "../node_modules/@types/google-apps-script/apis/calendar_v3.d.ts",
+      "../node_modules/@types/google-apps-script/apis/classroom_v1.d.ts",
+      "../node_modules/@types/google-apps-script/apis/content_v2.d.ts",
+      "../node_modules/@types/google-apps-script/apis/dfareporting_v3_3.d.ts",
+      "../node_modules/@types/google-apps-script/apis/directory_v1.d.ts",
+      "../node_modules/@types/google-apps-script/apis/docs_v1.d.ts",
+      "../node_modules/@types/google-apps-script/apis/drive_v2.d.ts",
+      "../node_modules/@types/google-apps-script/apis/driveactivity_v2.d.ts",
+      "../node_modules/@types/google-apps-script/apis/gmail_v1.d.ts",
+      "../node_modules/@types/google-apps-script/apis/groupsmigration_v1.d.ts",
+      "../node_modules/@types/google-apps-script/apis/groupssettings_v1.d.ts",
+      "../node_modules/@types/google-apps-script/apis/licensing_v1.d.ts",
+      "../node_modules/@types/google-apps-script/apis/mirror_v1.d.ts",
+      "../node_modules/@types/google-apps-script/apis/peopleapi_v1.d.ts",
+      "../node_modules/@types/google-apps-script/apis/reports_v1.d.ts",
+      "../node_modules/@types/google-apps-script/apis/reseller_v1.d.ts",
+      "../node_modules/@types/google-apps-script/apis/sheets_v4.d.ts",
+      "../node_modules/@types/google-apps-script/apis/slides_v1.d.ts",
+      "../node_modules/@types/google-apps-script/apis/tagmanager_v2.d.ts",
+      "../node_modules/@types/google-apps-script/apis/tasks_v1.d.ts",
+      "../node_modules/@types/google-apps-script/apis/youtube_v3.d.ts",
+      "../node_modules/@types/google-apps-script/apis/youtubeanalytics_v2.d.ts",
+      "../node_modules/@types/google-apps-script/apis/youtubepartner_v1.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script-events.d.ts",
+      [
+        "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+        [
+          {
+            "file": "../node_modules/@types/google-apps-script/google-apps-script.base.d.ts",
+            "start": 23916,
+            "length": 7,
+            "messageText": "Subsequent variable declarations must have the same type.  Variable 'console' must be of type 'Console', but here has type 'console'.",
+            "category": 1,
+            "code": 2403,
+            "relatedInformation": [
+              {
+                "file": "../../../../../../../home/devin/.nvm/versions/node/v12.21.0/lib/node_modules/typescript/lib/lib.dom.d.ts",
+                "start": 794836,
+                "length": 7,
+                "messageText": "'console' was also declared here.",
+                "category": 3,
+                "code": 6203
+              }
+            ]
+          }
+        ]
+      ],
+      "../node_modules/@types/google-apps-script/google-apps-script.cache.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.calendar.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.card-service.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.charts.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.conference-data.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.contacts.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.content.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.data-studio.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.document.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.drive.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.forms.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.gmail.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.groups.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.html.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.jdbc.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.language.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.lock.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.mail.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.maps.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.optimization.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.properties.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.script.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.sites.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.slides.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.spreadsheet.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.types.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.url-fetch.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.utilities.d.ts",
+      "../node_modules/@types/google-apps-script/google-apps-script.xml-service.d.ts",
+      "../node_modules/@types/google-apps-script/index.d.ts",
+      "../node_modules/typegram/api.d.ts",
+      "../node_modules/typegram/callback.d.ts",
+      "../node_modules/typegram/default.d.ts",
+      "../node_modules/typegram/index.d.ts",
+      "../node_modules/typegram/inline.d.ts",
+      "../node_modules/typegram/manage.d.ts",
+      "../node_modules/typegram/message.d.ts",
+      "../node_modules/typegram/passport.d.ts",
+      "../node_modules/typegram/payment.d.ts",
+      "../node_modules/typegram/proxied.d.ts",
+      "../node_modules/typegram/update.d.ts",
+      "../src/button.ts",
+      "../src/code.ts",
+      "../src/composer.ts",
+      "../src/context.ts",
+      "../src/core/helpers/check.ts",
+      "../src/core/helpers/compact.ts",
+      "../src/core/network/client.ts",
+      "../src/core/network/error.ts",
+      "../src/core/network/webhook.ts",
+      "../src/core/types/typegram.ts",
+      "../src/deunionize.ts",
+      "../src/index.ts",
+      "../src/markup.ts",
+      "../src/middleware.ts",
+      "../src/telegraf.ts",
+      "../src/telegram-types.ts",
+      "../src/telegram.ts"
+    ]
+  },
+  "version": "4.2.4"
+}

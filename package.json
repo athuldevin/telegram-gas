@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "push:watch": "clasp push --watch",
-    "push": "clasp push"
+    "push": "clasp push",
+    "typings": "tsc --declaration --outDir lib/ --emitDeclarationOnly --declarationMap"
   },
   "repository": {
     "type": "git",

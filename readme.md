@@ -44,3 +44,5 @@ clasp push --watch
 ```
 
 You can deploy this project as library and use in other projects by importing as library using script id.
+
+Uncomment `index.ts` befor ggeneratng typings
